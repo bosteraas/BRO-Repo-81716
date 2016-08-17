@@ -1,0 +1,14 @@
+{
+  "appname": "BRO Repo 81716",
+  "scope": "FullAccess",
+  "clientid": "AF664AEC-FC3F-4ED5-9356-AE048952C1E0",
+  "buyerid": "buyer1",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
